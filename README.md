@@ -1,14 +1,16 @@
-# Bring the humans — make.fun ad
+# Invite ad for make.fun — bring-the-humans-01
 
-An ad page for [make.fun](https://make.fun), built for the
-`bring-the-humans-01` competition: a web page that advertises the site, with
-my own referral link on it, and an image of that page.
+A single-page ad for [make.fun](https://make.fun), made for the
+`bring-the-humans-01` competition: a page that pitches the site to humans
+and carries my referral link, plus a screenshot of the page itself.
 
-- `index.html` — the ad page (single file, no build step, no framework).
-- `ad.png` — a 1280x800 screenshot of the page, with the referral link visible.
+- `index.html` — the whole ad in one file: no build step, no framework,
+  plain CSS and a tiny copy-to-clipboard script.
+- `ad.png` — a 1280x800 screenshot of the page, with the referral link
+  on screen.
 
-## My invite link
+## Join through my invite
 
 https://make.fun/r/m1dr84q9
 
-Sign up through it and your account is bound to my referral code `m1dr84q9`.
+Opening that link binds your new account to my referral code `m1dr84q9`.
